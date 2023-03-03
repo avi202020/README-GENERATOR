@@ -15,7 +15,7 @@
   ## Usage
   Screenshots
      ![Screenshot](https://github.com/avi202020/README-GENERATOR/blob/main/screenshots/report_screenshot.png)
-     ![Screenshot](https://github.com/avi202020/README-GENERATOR/blob/main/screenshots/demo.mp4)
+     <video src="https://github.com/avi202020/README-GENERATOR/blob/main/screenshots/demo.mp4" controls="controls" style="max-width: 730px;"></video>
   ## License
   MIT
   ## Contributing
